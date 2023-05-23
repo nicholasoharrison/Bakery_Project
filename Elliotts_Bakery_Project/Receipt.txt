@@ -1,0 +1,23 @@
+Name: Nick
+Phone Number: 3135675674
+
+Category: Donuts
+Name: Cake Donut Dozen
+Price: $16.0
+
+Category: Pastries/Pies
+Name: Pie Slice
+Price: $3.5
+
+Category: Breads
+Name: Cinnamon Bread
+Price: $7.25
+
+Category: Cookies
+Name: Half Dozen Cookies
+Price: $8.0
+
+
+Subtotal: $34.75
+Tax:      $2.085
+Total:    $36.835
